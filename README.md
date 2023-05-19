@@ -1,4 +1,4 @@
-# Zomato-restaurants-Data-Analysis
+# Data Analysis on Zomato restaurants
 
 Data collection: - 
 
